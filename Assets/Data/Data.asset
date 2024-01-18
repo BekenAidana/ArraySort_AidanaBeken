@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5648891fb9844e6a04773d714ed88d, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  count: 0
+  ObjsData:
+  - Name: SortManager
+    Scale: 1.1
+    Value: -65.960175
+    Color: {r: 0.28235295, g: 0.73333335, b: 0.41568628, a: 1}
+    GameObject: {fileID: 0}
+  - Name: SortManager
+    Scale: 0.9
+    Value: 92.56453
+    Color: {r: 0.16862746, g: 0.7921569, b: 0.74509805, a: 1}
+    GameObject: {fileID: 0}
+  - Name: SortManager
+    Scale: 1
+    Value: -58.94275
+    Color: {r: 0.6509804, g: 0.9019608, b: 0.75686276, a: 1}
+    GameObject: {fileID: 0}
+  - Name: SortManager
+    Scale: 0.9
+    Value: -18.990242
+    Color: {r: 0.89411765, g: 0.7882353, b: 0.45882353, a: 1}
+    GameObject: {fileID: 0}
+  - Name: SortManager
+    Scale: 0.9
+    Value: 71.39508
+    Color: {r: 0.5882353, g: 0.46666667, b: 0.972549, a: 1}
+    GameObject: {fileID: 0}
+  - Name: SortManager
+    Scale: 1.1
+    Value: 27.446697
+    Color: {r: 0.70980394, g: 0.050980393, b: 0.2509804, a: 1}
+    GameObject: {fileID: 0}
